@@ -1,3 +1,8 @@
+//GPA Calculator specialy for MUET Students
+//In this code you can enter data upto 7 subjects and 5 practicals and can get your GPA according given data
+
+
+
 package practice;
 import java.util.Scanner;
 public class GPACalculator
